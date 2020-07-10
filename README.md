@@ -34,6 +34,12 @@ SunCalc is also available as an Forgebox package:
 $ box install suncalc
 ```
 
+Get an instance of DateUtility from WireBox:
+
+```js
+property name="suncalc" inject="SunCalc@SunCalc";
+```
+
 ```js
 var SunCalc = CreateObject("component", "suncalc");
 ```
