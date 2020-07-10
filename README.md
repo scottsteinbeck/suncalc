@@ -31,7 +31,7 @@ var sunriseAzimuth = (sunrisePos.azimuth * 180) / Math.PI;
 SunCalc is also available as an NPM package:
 
 ```bash
-$ npm install suncalc
+$ box install suncalc
 ```
 
 ```js
