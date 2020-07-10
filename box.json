@@ -2,7 +2,7 @@
     "name":"SunCalc",
     "version":"1.0.0",
     "author":"Scott Steinbeck",
-    "location":"ForgeboxStorage",
+    "location":"scottsteinbeck/suncalc.cfc",
     "homepage":"http://scottsteinbeck.com",
     "documentation":"",
     "repository":{
