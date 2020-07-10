@@ -12,6 +12,12 @@ and [the planets](http://aa.quae.nl/en/reken/hemelpositie.html).
 You can read about different twilight phases calculated by SunCalc
 in the [Twilight article on Wikipedia](http://en.wikipedia.org/wiki/Twilight).
 
+## Requirements
+
+- Lucee 5+ or Adobe ColdFusion 10+
+- ColdBox 4.3+
+- Java 8+
+
 ## Usage example
 
 ```javascript
