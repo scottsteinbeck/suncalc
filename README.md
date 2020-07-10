@@ -28,7 +28,7 @@ var sunrisePos = SunCalc.getPosition(times.sunrise, 51.5, -0.1);
 var sunriseAzimuth = (sunrisePos.azimuth * 180) / Math.PI;
 ```
 
-SunCalc is also available as an NPM package:
+SunCalc is also available as an Forgebox package:
 
 ```bash
 $ box install suncalc
