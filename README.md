@@ -3,7 +3,7 @@
 SunCalc is a tiny ColdFusion (Lucee) library for calculating sun position,
 sunlight phases (times for sunrise, sunset, dusk, etc.),
 moon position and lunar phase for the given location and time,
-created by [Scott Steinbeckn](http://scottsteinbeck.com) ([@mourner](https://github.com/scottsteinbeck))
+created by [Scott Steinbeck](http://scottsteinbeck.com) ([@scottsteinbeck](https://github.com/scottsteinbeck))
 as a part of the [SunCalc.net project](http://suncalc.net).
 
 Most calculations are based on the formulas given in the excellent Astronomy Answers articles
