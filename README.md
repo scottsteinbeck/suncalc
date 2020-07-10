@@ -35,7 +35,7 @@ $ box install suncalc
 ```
 
 ```js
-var SunCalc = require("suncalc");
+var SunCalc = CreateObject("component", "suncalc");
 ```
 
 ## Reference
